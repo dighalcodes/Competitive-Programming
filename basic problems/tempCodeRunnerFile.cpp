@@ -1,0 +1,1 @@
+    cout<<"product is: "<<a*b*c<<endl; 
